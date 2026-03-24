@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1762987128 source:c:\users\vinicius\documents\aeds\trabalho1\adocaoanimais\adocao.c
+	"adocao.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1762987115 c:\users\vinicius\documents\aeds\trabalho1\adocaoanimais\adocao.h
+
+1762987102 source:c:\users\vinicius\documents\aeds\trabalho1\adocaoanimais\adotante.c
+	"adotante.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1763124469 c:\users\vinicius\documents\aeds\trabalho1\adocaoanimais\adotante.h
+
+1763124500 source:c:\users\vinicius\documents\aeds\trabalho1\adocaoanimais\animal.c
+	"animal.h"
+	<stdlib.h>
+	<string.h>
+
+1763124688 c:\users\vinicius\documents\aeds\trabalho1\adocaoanimais\animal.h
+	<stdio.h>
+
+1763127405 source:c:\users\vinicius\documents\aeds\trabalho1\adocaoanimais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"animal.h"
+	"adotante.h"
+	"adocao.h"
+
+1765492002 source:c:\users\vinicius\documents\aeds\trabalho2\adocaoanimais\adocao.c
+	"adocao.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1771724988 c:\users\vinicius\documents\aeds\trabalho2\adocaoanimais\adocao.h
+
+1765491940 source:c:\users\vinicius\documents\aeds\trabalho2\adocaoanimais\animal.c
+	"animal.h"
+	<stdlib.h>
+	<string.h>
+
+1771725034 c:\users\vinicius\documents\aeds\trabalho2\adocaoanimais\animal.h
+	<stdio.h>
+
+1765492133 source:c:\users\vinicius\documents\aeds\trabalho2\adocaoanimais\ordenacao_externa.c
+	"ordenacao_externa.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+
+1771724961 c:\users\vinicius\documents\aeds\trabalho2\adocaoanimais\ordenacao_externa.h
+	"animal.h"
+
+1765492739 source:c:\users\vinicius\documents\aeds\trabalho2\adocaoanimais\adotante.c
+	"adotante.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1771725009 c:\users\vinicius\documents\aeds\trabalho2\adocaoanimais\adotante.h
+
+1765543897 source:c:\users\vinicius\documents\aeds\trabalho2\adocaoanimais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"animal.h"
+	"adotante.h"
+	"adocao.h"
+	"ordenacao_externa.h"
+
+1771724976 source:c:\users\vinicius\documents\aeds\trabalho3\adocaoanimais\adocao.c
+	"adocao.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1771724988 c:\users\vinicius\documents\aeds\trabalho3\adocaoanimais\adocao.h
+
+1771724999 source:c:\users\vinicius\documents\aeds\trabalho3\adocaoanimais\adotante.c
+	"adotante.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1771725009 c:\users\vinicius\documents\aeds\trabalho3\adocaoanimais\adotante.h
+
+1771724912 source:c:\users\vinicius\documents\aeds\trabalho3\adocaoanimais\hash.c
+	"hash.h"
+	<stdio.h>
+	<stdlib.h>
+
+1771817709 c:\users\vinicius\documents\aeds\trabalho3\adocaoanimais\hash.h
+	"animal.h"
+
+1771817737 c:\users\vinicius\documents\aeds\trabalho3\adocaoanimais\animal.h
+	<stdio.h>
+
+1771724952 source:c:\users\vinicius\documents\aeds\trabalho3\adocaoanimais\ordenacao_externa.c
+	"ordenacao_externa.h"
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1771724961 c:\users\vinicius\documents\aeds\trabalho3\adocaoanimais\ordenacao_externa.h
+	"animal.h"
+

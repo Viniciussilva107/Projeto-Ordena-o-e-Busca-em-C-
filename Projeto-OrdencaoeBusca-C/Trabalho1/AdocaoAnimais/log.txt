@@ -1,0 +1,14 @@
+--- LOG REINICIADO ---
+[12/11/2025 19:50:17] [PERFORMANCE] Ordenacao BubbleSort: Tempo=0.0080s, Comparacoes=1215
+[12/11/2025 21:24:29] [PERFORMANCE] Busca Binaria ID 912: Tempo=0.000000s, Comparacoes=6, Achou=NAO
+[12/11/2025 21:24:45] [PERFORMANCE] Busca Binaria ID 962: Tempo=0.000000s, Comparacoes=6, Achou=NAO
+[12/11/2025 21:24:51] [PERFORMANCE] Busca Binaria ID 962: Tempo=0.000000s, Comparacoes=6, Achou=NAO
+[12/11/2025 21:25:06] [PERFORMANCE] Ordenacao BubbleSort: Tempo=0.0070s, Comparacoes=1215
+[12/11/2025 21:25:11] [PERFORMANCE] Busca Binaria ID 50: Tempo=0.000000s, Comparacoes=6, Achou=NAO
+[12/11/2025 21:25:19] [PERFORMANCE] Busca Binaria ID 912: Tempo=0.000000s, Comparacoes=6, Achou=SIM
+[12/11/2025 21:25:27] [PERFORMANCE] Ordenacao BubbleSort: Tempo=0.0000s, Comparacoes=49
+[12/11/2025 21:25:47] [PERFORMANCE] Busca Binaria ID 169: Tempo=0.000000s, Comparacoes=3, Achou=SIM
+[12/11/2025 21:33:04] [PERFORMANCE] Ordenacao BubbleSort: Tempo=0.0130s, Comparacoes=1215
+[12/11/2025 21:33:38] [PERFORMANCE] Ordenacao BubbleSort: Tempo=0.0000s, Comparacoes=49
+[12/11/2025 21:33:38] [PERFORMANCE] Ordenacao BubbleSort: Tempo=0.0000s, Comparacoes=49
+[12/11/2025 21:33:38] [PERFORMANCE] Ordenacao BubbleSort: Tempo=0.0000s, Comparacoes=49

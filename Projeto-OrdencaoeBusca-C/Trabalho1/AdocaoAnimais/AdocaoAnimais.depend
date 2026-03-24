@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1762987128 source:c:\users\vinicius\documents\aeds\trabalho1\adocaoanimais\adocao.c
+	"adocao.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1762987115 c:\users\vinicius\documents\aeds\trabalho1\adocaoanimais\adocao.h
+
+1762987102 source:c:\users\vinicius\documents\aeds\trabalho1\adocaoanimais\adotante.c
+	"adotante.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1762987088 c:\users\vinicius\documents\aeds\trabalho1\adocaoanimais\adotante.h
+
+1762993286 source:c:\users\vinicius\documents\aeds\trabalho1\adocaoanimais\animal.c
+	"animal.h"
+	<stdlib.h>
+	<string.h>
+
+1762993068 c:\users\vinicius\documents\aeds\trabalho1\adocaoanimais\animal.h
+	<stdio.h>
+
+1762987777 source:c:\users\vinicius\documents\aeds\trabalho1\adocaoanimais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"animal.h"
+	"adotante.h"
+	"adocao.h"
+

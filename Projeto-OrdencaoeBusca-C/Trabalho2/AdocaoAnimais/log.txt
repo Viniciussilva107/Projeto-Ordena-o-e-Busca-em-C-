@@ -1,0 +1,5 @@
+--- LOG REINICIADO ---
+[12/12/2025 09:50:06] Massa de teste de Animais gerada.
+[12/12/2025 09:50:11] Teste BubbleSort: Tempo 0.4940 s | Comps 124729
+[12/12/2025 09:50:29] Massa de teste de Animais gerada.
+[12/12/2025 09:50:32] Teste Ordenacao Externa: Tempo 0.0970 s
